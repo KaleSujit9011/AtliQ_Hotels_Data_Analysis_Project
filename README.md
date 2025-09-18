@@ -35,5 +35,5 @@ This project analyzes booking data from AtliQ Hotels to uncover business insight
 ## 📌 Author
 
 **Sujit Kale**  
-[LinkedIn](https://www.linkedin.com/in/sujit-kale) | [GitHub](https://github.com/KaleSujit9011/AtliQ-Hotels-Data-Analysis-Project)
+[LinkedIn](https://www.linkedin.com/in/sujit-kale) | [GitHub](https://github.com/KaleSujit9011)
 
